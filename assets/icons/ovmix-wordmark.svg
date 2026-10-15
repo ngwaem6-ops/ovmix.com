@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <style>
+      .brand { font-family: 'Montserrat', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:800; fill:#2B2F78; }
+      .tag { font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:600; fill:#FF6B61; }
+    </style>
+  </defs>
+  <text x="24" y="200" class="brand" font-size="160">OVMix</text>
+  <text x="24" y="270" class="tag" font-size="40">Shop smarter, live better.</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .title { font-family: 'Montserrat', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial; font-weight:700; fill:#FFFFFF; }
+    </style>
+  </defs>
+  <rect width="1024" height="1024" rx="256" ry="256" fill="#2B2F78"/>
+  <circle cx="512" cy="480" r="350" fill="none" stroke="#F6F7F9" stroke-opacity="0.06" stroke-width="8"/>
+  <text x="50%" y="54%" class="title" font-size="420" text-anchor="middle" dominant-baseline="middle">OM</text>
+  <g transform="translate(750,160) rotate(18)">
+    <rect x="0" y="0" width="160" height="90" rx="12" fill="#FF6B61"/>
+    <polygon points="160,0 190,18 160,36" fill="#FF6B61"/>
+    <circle cx="40" cy="45" r="8" fill="#2B2F78"/>
+  </g>
+</svg>
